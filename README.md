@@ -6,6 +6,6 @@
 ![image](img/img1.png)
 
 # 操作视频
-目前最新版本4.8
+目前最新版本4.9
 
-https://github.com/TheBeastofwar/VAV/assets/117450378/e3f56669-c0bc-46d5-a67f-5a985aee10c5
+https://github.com/TheBeastofwar/trainee/assets/117450378/806b565d-fd3d-4975-b14c-8b4b49332cb4
